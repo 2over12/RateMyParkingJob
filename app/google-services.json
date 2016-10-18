@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "725240478411",
+    "firebase_url": "https://ratethatparkingjob-b9232.firebaseio.com",
+    "project_id": "ratethatparkingjob-b9232",
+    "storage_bucket": "ratethatparkingjob-b9232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725240478411:android:a9f6b37f529f45f9",
+        "android_client_info": {
+          "package_name": "com.example.polyakovd.ratemyparkingjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725240478411-2psnrq3sroc0bplnmjea9i06jobghb3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
